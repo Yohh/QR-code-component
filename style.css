@@ -1,0 +1,41 @@
+body {
+    background-color: #d5e1ef;
+    width: 1440px;
+    font-family: 'Outfit', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    font-family: 'outfit';
+  }
+
+  section {
+    background-color: #ffffff;
+    border-radius: 5%;
+    width: 30%;
+    height: 45rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img {
+    border-radius: 5%;
+    width: 90%;
+    margin: 5%;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+    font size: 15px;
+  }
+
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
